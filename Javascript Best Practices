@@ -1,0 +1,12 @@
+Always declare local variables
+Declarations on top
+Initialize variables
+Never Declare Number, String, or Boolean Objects
+Don't Use new Object()
+Beware of Automatic Type Conversions
+Use === Comparison
+Use Parameter Defaults
+End Your Switches with Defaults
+Avoid Using eval()
+Avoid Globals
+Use template literals to combine strings
